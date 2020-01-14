@@ -1,0 +1,17 @@
+---
+title: "Fun-w-Models"
+author: "David J Jackson"
+date: "1/13/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(modelr)
+```
+Chapter 18: Model Basic with Modelr
+```{r}
+
+```
+
